@@ -1,0 +1,14 @@
+.apexcharts-tooltip-title{
+    padding: 6px !important;
+}
+.apexcharts-tooltip-series-group{
+    padding: 6px !important;
+}
+.apexcharts-tooltip-marker{
+    width: 10px !important;
+    height: 10px !important;
+    margin-right: 5px !important;
+}
+.apexcharts-xaxistooltip{
+    padding: 10px !important;
+}
